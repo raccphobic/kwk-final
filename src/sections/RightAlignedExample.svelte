@@ -45,11 +45,6 @@
 </div>
 
 <style>
-  .Scroller {
- 
-    height: auto;
-    min-height: 100vh;
-  }
   .quote-box {
     display: flex;
     flex-direction: column;
