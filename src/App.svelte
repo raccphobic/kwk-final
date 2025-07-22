@@ -1,10 +1,9 @@
 <script>
-  import LeftAlignedExample from "./sections/LeftAlignedExample.svelte";
-  import RightAlignedExample from "./sections/RightAlignedExample.svelte";
-  import TitleSection from "./sections/TitleSection.svelte";
-  import IntersectionObserverAlertExample from "./sections/IntersectionObserverAlertExample.svelte";
-  import DisappearingDuckExample from "./sections/DisappearingDuckExample.svelte";
-  import IntersectionObserverSectionCard from "./sections/IntersectionObserverSectionCard.svelte";
+  import LeftAlignedExample from "./sections/FirstGraph.svelte";
+  import RightAlignedExample from "./sections/Quotes.svelte";
+  import TitleSection from "./sections/Title.svelte";
+  import DisappearingDuckExample from "./sections/SecondGraph.svelte";
+  import IntersectionObserverSectionCard from "./sections/Question.svelte";
 </script>
 
 <main>
@@ -13,6 +12,5 @@
   <LeftAlignedExample />
 
   <IntersectionObserverSectionCard />
-  <IntersectionObserverAlertExample />
   <DisappearingDuckExample />
 </main>
