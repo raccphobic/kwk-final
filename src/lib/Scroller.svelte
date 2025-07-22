@@ -16,7 +16,7 @@
 
 <style>
     .wrapper {
-        background-color: #f7f5eb;
+        background-color: rgba(209, 184, 217, 0.537);
         padding: min(100vh, 30rem) 1rem;
         border-style: solid;
         border-color: #4096fa;
